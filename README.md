@@ -4,7 +4,7 @@ Interactive HR Analytics Dashboard evaluating active employee count, attrition, 
 
 ## 🛠️ Tools & Technologies
 - **Data Visualization & Dashboarding:** Power BI Desktop
-- **Data Processing & Analysis:** Power Query, DAX, SQL
+- **Data Processing & Analysis:** Power Query, DAX, Excel
 
 ## 🔑 Key Metrics Analyzed
 - Active Employee Count & Attrition Rates
